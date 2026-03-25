@@ -1,0 +1,12 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="آفاق">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="20%" x2="100%" y2="80%">
+      <stop stop-color="#a855f7" offset="0%" />
+      <stop stop-color="#6366f1" offset="100%" />
+    </linearGradient>
+  </defs>
+  <rect x="14" y="14" width="192" height="92" rx="22" fill="#0f172a" opacity="0.9" />
+  <path d="M48 82c18-28 36-42 62-42 26 0 45 14 62 42" fill="none" stroke="url(#g2)" stroke-width="12" stroke-linecap="round" />
+  <circle cx="110" cy="54" r="18" fill="url(#g2)" opacity="0.9" />
+  <circle cx="162" cy="46" r="10" fill="#c7d2fe" opacity="0.8" />
+</svg>

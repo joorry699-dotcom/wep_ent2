@@ -1,0 +1,13 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="سديم">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#22d3ee" offset="0%" />
+      <stop stop-color="#6366f1" offset="100%" />
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="196" height="96" rx="26" fill="url(#g1)" opacity="0.9" />
+  <path d="M65 82c20-3 26-19 45-19 19 0 28 13 45 14" fill="none" stroke="#e0f4ff" stroke-width="10" stroke-linecap="round" opacity="0.8" />
+  <circle cx="72" cy="48" r="14" fill="#e0f4ff" opacity="0.9" />
+  <circle cx="110" cy="40" r="10" fill="#0f172a" opacity="0.24" />
+  <circle cx="158" cy="56" r="13" fill="#0f172a" opacity="0.22" />
+</svg>

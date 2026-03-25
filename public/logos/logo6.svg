@@ -1,0 +1,14 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="منارة">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop stop-color="#38bdf8" offset="0%" />
+      <stop stop-color="#22d3ee" offset="100%" />
+    </linearGradient>
+  </defs>
+  <rect x="14" y="18" width="192" height="84" rx="22" fill="#0b1223" opacity="0.9" />
+  <path d="M110 30v52" stroke="url(#g6)" stroke-width="12" stroke-linecap="round" />
+  <path d="M78 66c10-14 20-22 32-22s22 8 32 22" fill="none" stroke="#e0f2fe" stroke-width="8" stroke-linecap="round" />
+  <circle cx="110" cy="34" r="14" fill="url(#g6)" opacity="0.95" />
+  <circle cx="78" cy="78" r="10" fill="#e0f2fe" opacity="0.85" />
+  <circle cx="142" cy="78" r="10" fill="#e0f2fe" opacity="0.85" />
+</svg>

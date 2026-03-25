@@ -1,0 +1,13 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="مدى">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop stop-color="#fb923c" offset="0%" />
+      <stop stop-color="#f59e0b" offset="100%" />
+    </linearGradient>
+  </defs>
+  <rect x="16" y="18" width="188" height="84" rx="24" fill="#0f172a" opacity="0.85" />
+  <path d="M56 84c14-18 24-26 39-26 16 0 24 8 39 26" fill="none" stroke="url(#g3)" stroke-width="12" stroke-linecap="round" />
+  <path d="M86 64c10-12 20-18 32-18 12 0 22 6 32 18" fill="none" stroke="#ffe5c2" stroke-width="6" stroke-linecap="round" opacity="0.9" />
+  <circle cx="76" cy="48" r="8" fill="#ffe5c2" opacity="0.9" />
+  <circle cx="148" cy="48" r="8" fill="#ffe5c2" opacity="0.9" />
+</svg>
