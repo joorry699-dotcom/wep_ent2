@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "pnpm run build",
+  "outputDirectory": ".next",
+  "installCommand": "pnpm install",
+  "env": {
+    "TURBOPACK": "0"
+  }
+}
