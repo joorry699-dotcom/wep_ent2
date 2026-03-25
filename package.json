@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node -e \"process.env.TURBOPACK='0'; require('next/dist/cli/next-build')\"",
     "start": "next start",
-    "export": "next build",
+    "export": "node -e \"process.env.TURBOPACK='0'; require('next/dist/cli/next-build')\"",
     "lint": "eslint ."
   },
   "dependencies": {
